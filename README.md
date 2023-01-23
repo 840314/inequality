@@ -6,14 +6,20 @@
 
 #### 涵蓋資料庫:
 - [ ] BarroLee
+- [ ] BC
+- [ ] BMR
 - [ ] Chinn-Ito
+- [ ] DeMaX
 - [ ] EF
 - [ ] FDI
 - [ ] FH
 - [ ] GF
 - [ ] GFS
+- [ ] KOF
+- [ ] Polity5
 - [ ] PWT
 - [ ] SWIID
+- [ ] V-Dem
 - [ ] WDI
 
 #### 備註:
