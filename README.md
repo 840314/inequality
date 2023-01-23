@@ -7,20 +7,20 @@
 #### 涵蓋資料庫:
 - [X] BarroLee
 - [ ] BC
-- [ ] BMR
-- [ ] Chinn-Ito
+- [X] BMR
+- [X] Chinn-Ito
 - [ ] DeMaX
-- [ ] EF
-- [ ] FDI
-- [ ] FH
-- [ ] GF
+- [X] EF
+- [X] FDI
+- [X] FH
+- [X] GF
 - [ ] GFS
-- [ ] KOF
+- [X] KOF
 - [ ] Polity5
-- [ ] PWT
-- [ ] SWIID
+- [X] PWT
+- [X] SWIID
 - [ ] V-Dem
-- [ ] WDI
+- [X] WDI
 
 #### 備註:
 * 以 SWIID 有的國家為主
