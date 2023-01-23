@@ -6,7 +6,7 @@
 
 #### 涵蓋資料庫:
 - [X] BarroLee
-- [ ] BC
+- [X] BC
 - [X] BMR
 - [X] Chinn-Ito
 - [ ] DeMaX
@@ -14,7 +14,7 @@
 - [X] FDI
 - [X] FH
 - [X] GF
-- [ ] GFS
+- [X] GFS
 - [X] KOF
 - [ ] Polity5
 - [X] PWT
