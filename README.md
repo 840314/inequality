@@ -5,7 +5,7 @@
 * (.dta檔) 資料庫名稱_ + 變數名稱: 變數的解釋見 Data_資料庫名稱/dataset explanation.docx
 
 #### 涵蓋資料庫:
-- [ ] BarroLee
+- [X] BarroLee
 - [ ] BC
 - [ ] BMR
 - [ ] Chinn-Ito
