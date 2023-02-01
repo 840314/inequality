@@ -16,10 +16,10 @@
 - [X] GF
 - [X] GFS
 - [X] KOF
-- [ ] Polity5
+- [X] Polity5
 - [X] PWT
 - [X] SWIID
-- [ ] V-Dem
+- [X] V-Dem
 - [X] WDI
 
 #### 備註:
